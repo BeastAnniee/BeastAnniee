@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Jostin! 🚀</h1>
+<h1 >Hi, I'm Jostin! 🚀</h1>
 
 - 🤖 **Industrial Mechatronics Technician at [_Preparatoria Alvaro Obregón_](https://alvaroobregon.uanl.mx/)**
 - 🪐 **Physics Student at [_UANL_](https://www.fcfm.uanl.mx/)**
 - 🐯 **Alumni and Dean's List Semi-Finalist at _FRC Tigres 6652_**
 
-<h1 align="center">My Sound 🎶</h1>
+<h1 >My Sound 🎶</h1>
 
 <center>
 
