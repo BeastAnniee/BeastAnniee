@@ -3,6 +3,7 @@
 - 🤖 **Industrial Mechatronics Technician at [_Preparatoria Alvaro Obregón_](https://alvaroobregon.uanl.mx/)**
 - 🪐 **Physics Student at [_UANL_](https://www.fcfm.uanl.mx/)**
 - 🐯 **Alumni and Dean's List Semi-Finalist at _FRC Tigres 6652_**
+- 💻 **Junior Frontend Developer with React + Typescript**
 
 <h1 align="center">My Sound 🎶</h1>
 
