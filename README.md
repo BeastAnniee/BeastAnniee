@@ -1,19 +1,38 @@
-<h1 align="center">Hi, I'm Jostin! 🚀</h1>
+# Hello, I'm Jostin Nava 👋
+
+I'm passionate about science, technology, and software development. I specialize in building modern, functional web applications using **React**.
+
+---
+
+## 🚀 About Me
 
 - 🤖 **Industrial Mechatronics Technician at [_Preparatoria Alvaro Obregón_](https://alvaroobregon.uanl.mx/)**
 - 🪐 **Physics Student at [_UANL_](https://www.fcfm.uanl.mx/)**
-- 🐯 **Alumni and Dean's List Semi-Finalist at _FRC Tigres 6652_**
-- 💻 **Junior Frontend Developer with React + Typescript**
+- 🐯 **Alumni and Dean's List Semi-Finalist at [_FRC Tigres 6652_](https://www.instagram.com/tigres6652/?hl=es)**
+- 💻 **Junior Frontend Developer with React + TypeScript**
 
-<h1 align="center">My Sound 🎶</h1>
+---
 
-<center>
+## 💻 Tech Stack
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315cn53okiwbjqz33gdeiw4byvu4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=6a629e&bar_color_cover=true)
+- **Languages:** JavaScript, TypeScript, Python  
+- **Frontend:** React, React Router, Next.js, Astro, Tailwind CSS, Material UI (MUI)  
+- **Tools:** Git, GitHub, Vercel, VSCode  
+- **Others:** CSS, HTML, SEO, Server-Side Rendering (SSR)  
 
-</center>
+---
 
-<h1 align="center">Stats 📈</h1>
-<p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=BeastAnniee&theme=tokyonight_duo&hide_border=true"
-</p>
+## 📫 Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/jostin-aldair-nava-l%C3%B3pez-437986320/)
+- [jostinaval@gmail.com](mailto:jostinaval@gmail.com)
+
+---
+
+## 📈 Stats
+
+![Jostin Nava's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+---
+
+Thanks for visiting my profile!
