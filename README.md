@@ -31,7 +31,7 @@ I'm passionate about science, technology, and software development. I specialize
 
 ## 📈 Stats
 
-![Jostin Nava's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Jostin Nava's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeastAnniee&show_icons=true&theme=radical)
 
 ---
 
