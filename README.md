@@ -4,8 +4,6 @@
   I specialize in building modern, functional web applications using <b>React</b>.
 </p>
 
----
-
 ## 👨‍💻 About Me
 - 🤖 Industrial Mechatronics Technician at [_Preparatoria Álvaro Obregón_](https://alvaroobregon.uanl.mx/)  
 - 🪐 Physics Student at [_UANL_](https://www.fcfm.uanl.mx/)  
@@ -41,6 +39,5 @@
   </a>
 </p>
 
----
 
 <p align="center">⭐ Thanks for visiting my profile! ⭐</p>
